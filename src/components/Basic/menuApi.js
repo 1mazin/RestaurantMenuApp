@@ -48,7 +48,7 @@
 },
 {
     id:7,
-    image:"images/Momos.jpg",
+    image:"images/momos.jpg",
     name:"Momos",
     category:"dinner",
     price:60,
